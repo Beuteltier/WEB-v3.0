@@ -72,3 +72,14 @@ a {
 .text {
   color: white;
 }
+
+.error {
+  font-size: 54pt;
+  font-weight: 200;
+  }
+
+.error-d {
+  font-size: 35pt;
+  font-weight: 300;
+  margin-top: -70px;
+}
