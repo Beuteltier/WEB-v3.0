@@ -73,6 +73,13 @@ a {
   color: white;
 }
 
+.text-b {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
 .error {
   font-size: 54pt;
   font-weight: 200;
