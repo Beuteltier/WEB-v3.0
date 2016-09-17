@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="248px" height="276px" viewBox="0 0 248 276" enable-background="new 0 0 248 276" xml:space="preserve">
-<rect x="-0.878" y="-0.297" fill="#FFFFFF" width="248.206" height="276.349"/>
-<text transform="matrix(1 0 0 1 63.2959 137.8779)" fill="#1D1D1B" font-family="'Roboto-Medium'" font-size="23.9233">1 Main Bild</text>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="342px"
+	 height="276px" viewBox="0 0 342 276" enable-background="new 0 0 342 276" xml:space="preserve">
+<g id="Ebene_2">
+	<rect x="-0.878" y="-0.297" width="341.989" height="276.349"/>
+</g>
+<g id="Ebene_1">
+	<rect x="-0.878" y="-0.297" fill="#FFFFFF" width="248.206" height="276.349"/>
+	<text transform="matrix(1 0 0 1 63.2959 137.8779)" fill="#1D1D1B" font-family="'Roboto-Medium'" font-size="23.9233">1 Main Bild</text>
+	<rect x="253.231" y="-0.297" fill="#FFFFFF" width="88.038" height="88.039"/>
+	<rect x="253.231" y="93.32" fill="#FFFFFF" width="88.038" height="88.038"/>
+	<rect x="253.072" y="188.014" fill="#FFFFFF" width="88.039" height="88.038"/>
+	<text transform="matrix(1 0 0 1 286.7031 50.0732)" fill="#1D1D1B" font-family="'Roboto-Medium'" font-size="24.6522">2</text>
+	<text transform="matrix(1 0 0 1 286.7031 149.5039)" fill="#1D1D1B" font-family="'Roboto-Medium'" font-size="24.6522">3</text>
+	<text transform="matrix(1 0 0 1 286.7031 240.7168)" fill="#1D1D1B" font-family="'Roboto-Medium'" font-size="24.6522">4</text>
+</g>
 </svg>
