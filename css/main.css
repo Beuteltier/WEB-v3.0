@@ -4,22 +4,18 @@ body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-
 ::-webkit-scrollbar {
     display: none;
 }
-
 a {
-  text-decoration: none;
-  color: white;
+    text-decoration: none;
+    color: white;
 }
-
 .nav {
-  list-style-type: none;
-  overflow: hidden;
+    list-style-type: none;
+    overflow: hidden;
     display: table;
-    margin:0 auto;
-
+    margin: 0 auto;
     font-size: 25pt;
     font-weight: 200;
 }
@@ -33,60 +29,56 @@ a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 .active {
-
     border-style: solid;
-    border-top:    1px solid  #ffffff;
+    border-top: 1px solid #ffffff;
     border-bottom: 1px solid #ffffff;
     border-left: 0px solid;
     border-right: 0px solid;
 }
-
 .nav-hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  }
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .header-img {
-  padding-bottom: 20px;
+    padding-bottom: 20px;
 }
-
-
 .box {
-  font-size: 26pt;
-  font-weight: 300;
-  padding: 10px;
-
-  margin: auto;
-  width: 30%;
-
-  border-style: solid;
-  box-sizing: border-box;
-  border: 1px solid  #ffffff;
-  border-radius: 10px;
-
-
+    font-size: 26pt;
+    font-weight: 300;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    border-style: solid;
+    box-sizing: border-box;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
 }
-
 .text {
-  color: white;
+    color: white;
+}
+.text-b {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: 300;
+}
+.tb-text {
+    font-weight: 300;
 }
 
-.text-b {
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 50px;
-  margin-top: 50px;
+.sponsor {
+    font-size: 54pt;
+    font-weight: 200;
 }
 
 .error {
-  font-size: 54pt;
-  font-weight: 200;
-  }
-
+    font-size: 25pt;
+    font-weight: 200;
+}
 .error-d {
-  font-size: 35pt;
-  font-weight: 300;
-  margin-top: -70px;
+    font-size: 35pt;
+    font-weight: 300;
+    margin-top: -70px;
 }
